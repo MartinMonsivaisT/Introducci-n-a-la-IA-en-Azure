@@ -34,14 +34,25 @@ La visión informática es un área de la inteligencia artificial que trata el p
 # Modelos y funciones de Computer Visión
 La mayoría de las soluciones de visión artificial se basan en modelos de Machine Learning que se pueden aplicar a la entrada de cámaras, videos o imágenes.
  - Clasificación de imágenes
-  - La clasificación de imágenes implica entrenar un modelo de Machine Learning para         clasificar imágenes en función de sus contenidos.
+  La clasificación de imágenes implica entrenar un modelo de Machine Learning para         clasificar imágenes en función de sus contenidos.
  - Detección de objetos
-  - Los modelos de Machine Learning de detección de objetos están entrenados para clasificar objetos individuales dentro de una imágen, y para identificar su ubicación con un rectángulo delimitador.
+  Los modelos de Machine Learning de detección de objetos están entrenados para clasificar objetos individuales dentro de una imágen, y para identificar su ubicación con un rectángulo delimitador.
  - Segmentación semántica
-  - La segmentación semántica es una técnica avanzada de Machine Learning en la que los píxeles individuales de la imágen se clasifican según el objeto al que pertenecen. 
+  La segmentación semántica es una técnica avanzada de Machine Learning en la que los píxeles individuales de la imágen se clasifican según el objeto al que pertenecen. 
  - Análisis de imágenes
-  - Puede crear soluciones que combinen modelos de Machine Learning con técnicas avanzadas de análisis de imágenes para extraer información de las imágenes, incluidas "etiquetas" que podrían ayudar a catalogar la imagen o incluso subtítulos descriptivos que resuman la escena que se muestra en la imagen.
+  Puede crear soluciones que combinen modelos de Machine Learning con técnicas avanzadas de análisis de imágenes para extraer información de las imágenes, incluidas "etiquetas" que podrían ayudar a catalogar la imagen o incluso subtítulos descriptivos que resuman la escena que se muestra en la imagen.
  - Detección, análisis y reconocimiento de caras
-  - La detección de caras es una forma especializada de detección de objetos que busca caras humanas en una imágen. Esto se puede combinar con técnicas de clasificación y análisis de geometría facial para deducir detalles como la edad y el estado emocional e incluso reconocer a individuos por sus rasgos faciales.
+  La detección de caras es una forma especializada de detección de objetos que busca caras humanas en una imágen. Esto se puede combinar con técnicas de clasificación y análisis de geometría facial para deducir detalles como la edad y el estado emocional e incluso reconocer a individuos por sus rasgos faciales.
  - Reconocimiento óptico de caracteres (OCR)
-  - El reconocimiento óptico de caracteres es una técnica que se usa para detectar y leer texto en imágenes. Puede usar OCR para leer texto en fotografías (por ejemplo, señales de tráfico o escaparates de tiendas), o bien para extraer información de documentos escaneados, como cartas, facturas o formularios.
+   El reconocimiento óptico de caracteres es una técnica que se usa para detectar y leer texto en imágenes. Puede usar OCR para leer texto en fotografías (por ejemplo, señales de tráfico o escaparates de tiendas), o bien para extraer información de documentos escaneados, como cartas, facturas o formularios.
+
+# Servicios de visión artificial en Microsoft Azure
+Microsoft Azure proporciona los siguientes servicios cognitivos para ayudarle a crear soluciones de visión artificial:
+ - Computer Visión
+ Puede usar este servicio para analizar imágenes y video, y extraer descripciones, etiquetas, objetos y texto.
+ - Custom Vision
+ Use este servicio para entrenar modelos de clasificación de imágenes y de detección de objetospersonalizados mediante imágenes propias.
+ - Face
+ El servicio Face permite crear soluciones de detección de caras y personas.
+ - Form Recognizer
+ Use este servicio para extraer información de facturas y formularios.
