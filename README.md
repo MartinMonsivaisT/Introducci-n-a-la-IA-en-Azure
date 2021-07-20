@@ -49,10 +49,10 @@ La mayoría de las soluciones de visión artificial se basan en modelos de Machi
 # Servicios de visión artificial en Microsoft Azure
 Microsoft Azure proporciona los siguientes servicios cognitivos para ayudarle a crear soluciones de visión artificial:
  - Computer Visión
- Puede usar este servicio para analizar imágenes y video, y extraer descripciones, etiquetas, objetos y texto.
+  Puede usar este servicio para analizar imágenes y video, y extraer descripciones, etiquetas, objetos y texto.
  - Custom Vision
- Use este servicio para entrenar modelos de clasificación de imágenes y de detección de objetospersonalizados mediante imágenes propias.
+  Use este servicio para entrenar modelos de clasificación de imágenes y de detección de objetospersonalizados mediante imágenes propias.
  - Face
- El servicio Face permite crear soluciones de detección de caras y personas.
+  El servicio Face permite crear soluciones de detección de caras y personas.
  - Form Recognizer
- Use este servicio para extraer información de facturas y formularios.
+  Use este servicio para extraer información de facturas y formularios.
