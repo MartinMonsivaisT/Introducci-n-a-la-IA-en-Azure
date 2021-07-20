@@ -1,7 +1,6 @@
 # Introducción a la IA en Azure
 Notas del Learning Path "Introducción  a la Inteligencia Artificial en Azure" - Microsoft Learn Student Ambassadors Latam
-
-* La inteligencia artificial es la creacion de software que imita comportamientos y capacidades humanas. Entre los elementos clave se incluyen los siguientes:
+La inteligencia artificial es la creacion de software que imita comportamientos y capacidades humanas. Entre los elementos clave se incluyen los siguientes:
  - Machine Learning
  - Detección de anomalias
  - Visión informática
