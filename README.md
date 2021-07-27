@@ -56,3 +56,53 @@ Microsoft Azure proporciona los siguientes servicios cognitivos para ayudarle a 
   El servicio Face permite crear soluciones de detección de caras y personas.
  - Form Recognizer
   Use este servicio para extraer información de facturas y formularios.
+
+# Descripción del procesamiento de lenguaje natural.
+El procesamiento de lenguaje natural (PNL) es el área de la inteligencia artificial que se ocupa de crear software capaz de entender el lenguaje escrito y hablado.
+ - Analizar e interpretar texto en documentos, mensajes de correo electrónico y otros orígenes.
+ - Interpretar el lenguaje hablado y sintetizar las respuestas del habla.
+ - Traducir automáticamente frases habladas o escritas entre idiomas.
+ - Interpretar comandos y determinar las acciones apropiadas.
+
+# Procesamiento de lenguaje natural en Microsoft Azure
+ - Text Analytics	
+ Use este servicio para analizar documentos de texto y extraer frases clave, detectar entidades (como lugares, fechas y personas), y evaluar opiniones (la positividad o negatividad de un documento).
+ - Translator Text	
+ Use este servicio para traducir texto en más de 60 idiomas.
+ - Voz
+ Use este servicio para reconocer y sintetizar mensajes de voz y traducir idiomas hablados.
+ - Language Understanding Intelligent Service (LUIS)
+ Use este servicio para entrenar un modelo de lenguaje que pueda comprender comandos hablados o basados en texto.
+ 
+ # Descripción de la IA de conversación.
+ La inteligencia artificial de conversación es el término para describir soluciones en las que los agentes de inteligencia artificial participan en conversaciones con humanos. Normalmente, las soluciones de inteligencia artificial de conversación usan bots para controlar los diálogos con los usuarios. Estos diálogos pueden tener lugar a través de interfaces de sitios web, correo electrónico, plataformas de medios sociales, sistemas de mensajería, llamadas telefónicas y otros canales. Los bots pueden ser la base de soluciones de inteligencia artificial para:
+ - Soporte técnico de productos o servicios para clientes.
+ - Sistemas de reservas para restaurantes, líneas aéreas, cines y otras empresas.
+ - Consultas de atención sanitaria y autodiagnóstico.
+ - Domótica y asistentes digitales personales.
+ 
+ # Inteligencia Artificial de conversación en Microsoft Azure
+ Los servicios que ofrece Microsoft Azure para crear soluciones de inteligencia artificial son los siguientes:
+  - QnA
+  Este servicio cognitivo le permite crear rápidamente una base de conocimiento de preguntas y respuestas que pueden formar la base de un diálogo entre un usuario humano y un agente de IA.
+  - Azure Bot Service
+  Este servicio proporciona una plataforma para crear, publicar y administrar bots. Los desarrolladores pueden usar Bot Framework para crear un bot y administrarlo con Azure Bot Service, a fin de integrar servicios de back-end como QnA Maker y LUIS, y conectarse a canales de chat web, correo electrónico, Microsoft Teams, etc.
+  
+# Descripción de la inteligencia artificial.
+La inteligencia artificial es una herramienta poderosa que se puede usar para beneficiar enormemente al mundo. Pero como cualquier herramienta, se debe utilizar de manera responsable.
+En Microsoft, el desarrollo de software de inteligencia artificial se guía por un conjunto de seis principios diseñado para garantizar que las aplicaciones de inteligencia artificial ofrezcan soluciones sorprendentes a problemas difíciles sin consecuencias negativas no deseadas.
+ - Imparcialidad
+Los sistemas de IA deberían tratar a todas las personas de manera equitativa. Por ejemplo, imagine que crea un modelo de Machine Learning para admitir una solicitud de aprobación de préstamo para un banco. El modelo debe hacer predicciones acerca de si el préstamo debe ser aprobado o no sin incorporar ningún sesgo basado en el género, origen étnico u otros factores que puedan resultar en una ventaja o desventaja injusta para grupos específicos de solicitantes. 
+Azure Machine Learning incluye la capacidad de interpretar modelos y cuantificar en qué medida cada característica de los datos influye en la predicción del modelo. Esta capacidad ayuda a los científicos y desarrolladores de datos a identificar y mitigar sesgos en el modelo.
+ - Confiabilidad y seguridad
+ Los sistemas de inteligencia artificial deben funcionar de manera confiable y segura. 
+ Por ejemplo, un sistema de software basado en IA para un vehículo autónomo; o bien, un modelo de Machine Learning que diagnostica los síntimas del paciente y recomienda recetas. La falta de fiabilidad en este tipo de sistema puede resultar en un riesgo sustancial para la vida humana. 
+El desarrollo de aplicaciones de software basadas en inteligencia artificial debe someterse a rigurosos procesos de prueba y administración de implementaciones para garantizar que funcionen de la forma esperada antes de su lanzamiento.
+ - Privacidad y seguridad
+Los sistemas de inteligencia artificial deben ser seguros y respetar la privacidad. Los modelos de Machine Learning en los que se basan los sistemas de inteligencia artificial dependen de grandes volúmenes de datos, que pueden contener datos personales que deben mantenerse privados. Incluso después de entrenar los modelos y que el sistema esté en producción, usa datos nuevos para realizar predicciones o tomar medidas que pueden estar sujetas a problemas de privacidad o seguridad.
+ - Inclusión
+Los sistemas de inteligencia artificial deben empoderar a todos e involucrar a las personas. La inteligencia artificial debería aportar beneficios a todos los sectores de la sociedad, independientemente de su capacidad física, género, orientación sexual, origen étnico u otros factores.
+ - Transparencia
+Los sitemas de inteligencia artificial deben ser comprensibles. Los usuarios deben ser plenamente conscientes del propósito del sistema, su funcionamiento y las limitaciones que se pueden esperar.
+ - Responsabilidad
+ Las personas deberían ser responsables de los sistemas de inteligencia artificial. Los diseñadores y desarrolladores de soluciones basadas en IA deben trabajar dentro de un marco de gobernanza y principios de organización que garanticen que la solución cumpla con los estándares éticos y legales claramente definidos.
